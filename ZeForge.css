@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1, h2, p {
+  font-family: sans-serif;
+}
+.header {
+  height: 60px;
+  width: 65%;
+  margin: auto;
+}
+.img,
+.home,
+.pres,
+.button {
+  float: left;
+  font-family: sans-serif;
+}
+.img {
+  padding-top: 12px;
+  padding-right: 45px;
+}
+.pres {
+  padding-top: 23px;
+  padding-left: 30px;
+  font-size: 14px;
+}
+.home {
+  padding: 23px 5px 16.5px 5px;
+  border-bottom: 4px solid #FFB901;
+  font-size: 14px;
+}
+.button {
+  background-color: #D0D4D7;
+  color: #B4B8BB;
+  width: 250px;
+  float: right;
+  padding-top: 8px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  margin-top: 15px;
+  border: 1px solid lightgray;
+  border-radius: 20px;
+  font-size: 10px;
+}
+.searchlogo {
+  float: right;
+  margin-right: 8px;
+  margin-bottom: 2px;
+}
+.centar {
+  background-image: url(https://www.mangatrip.rs/wp-content/uploads/2019/04/Maldivi-6-960-HR.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 480px;
+}
+.text {
+  width: 65%;
+  margin: auto;
+}
+.srednji {
+  color: white;
+  width: 30%;
+  margin-bottom: 30px;
+}
+.dio {
+  width: 15%;
+}
+.two {
+  background-color: #FFB901;
+  float: left;
+  width: 220px;
+  color: white;
+  border-color: #FFB901;
+  font-size: 13px;
+}
+.paperplane {
+  float: right;
+  margin-right: 8px;
+  margin-bottom: 1.7px;
+}
+.last {
+  width: 65%;
+  margin: auto;
+}
+.zadnji {
+  padding-top: 23px;
+  padding-bottom: 23px;
+}
+h2, hr {
+  color: #575654;
+}
+hr {
+  width: 90%
+}
+.pasus {
+  color: #575654;
+  width: 88%
+}
+td {
+  font-size: 13px;
+  padding-right: 50px;
+  padding-top: 20px;
+}
+.read {
+  color: #FFB901;
+}
+.read {
+  border-bottom: 10px solid #D9E8EF;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+.prvinaslov {
+  color: white;
+  font-size: 31px;
+  padding-top: 50px;
+  padding-bottom: 35px;
+  width: 30%;
+}
